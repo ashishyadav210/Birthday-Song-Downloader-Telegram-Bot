@@ -38,7 +38,7 @@ It also includes a **force join system** and **admin broadcast feature** to grow
 
 ✅ Personalized birthday song by name  
 ✅ Automatic MP3 availability check  
-✅ Telegram (force join) + YouTube + Instagram join button 
+✅ Telegram (force join) + YouTube + Instagram join button
 ✅ Inline verification button  
 ✅ Admin-only broadcast system  
 ✅ User auto-save system  
